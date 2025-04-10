@@ -28,8 +28,8 @@ unsigned long lastTime = 0;
 unsigned long timerDelay = 1000;
 
 // Replace with your network credentials
-const char* ssid = "iPhone von Julia";
-const char* password = "NUK14823";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
